@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01ac7c2fac2ddd40a0e0da9179e0175, type: 3}
+  m_Name: Episode1
+  m_EditorClassIdentifier: 
+  _name: "\u041E\u0445\u043E\u0442\u0430"
+  _lelvels:
+  - ep1_01
+  - ep1_02
+  - ep1_03
+  _previewImage: {fileID: 0}
